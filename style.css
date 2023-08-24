@@ -11,6 +11,12 @@
   background-color: red;
 }
 
+.main-visual {
+  width: 100%;
+  height: 500px;
+  background-color: orange;
+}
+
 .footer {
   width: 100%;
   height: 100px;
